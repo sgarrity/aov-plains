@@ -911,7 +911,10 @@ body {
 
 .post-navigation { display: none; }
 
-
+.entry-content {
+	font-size: 1.3rem;
+	line-height: 1.8;
+}
 
 
 
